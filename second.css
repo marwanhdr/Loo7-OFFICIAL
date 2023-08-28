@@ -1,0 +1,87 @@
+body{
+    background-image: url(img/mc.jpg);
+    background-repeat: no-repeat;background-attachment: fixed;background-size: cover;
+}
+.button {
+    background-color: tomato;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    border-radius: 50Px;
+}
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+  
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.nether{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: grey;
+}
+.mc{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: grey;
+}
+.div2 {
+    width: 120px;
+    height: 20px;
+    background: gray;
+    transition: width 1s;
+    border-radius: 100px;
+}
+div:hover {
+    width: 100%;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100px;
+}
+p{
+    border: 2px solid powderblue;
+    margin: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+  
+  /* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.navbar{
+    background-image: url(img/246223.jpg);
+    background-repeat: no-repeat;background-attachment: fixed;background-size: cover;
+    font-size: 25px;
+    color: whitesmoke;
+    width: 100%;
+    font-kerning: inherit;
+    font-display: 100px;
+}

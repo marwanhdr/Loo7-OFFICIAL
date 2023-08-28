@@ -1,0 +1,11 @@
+body{
+    background-image: url(img/wallpaperflare.com_wallpaper\ \(4\).jpg);
+    background-repeat: no-repeat;background-attachment: fixed;background-size: cover;
+}
+.build{
+    font-size: 20px;
+}
+p {
+    border: 2px solid powderblue;
+    margin: 50px;
+  }
